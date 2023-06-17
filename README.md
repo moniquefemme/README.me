@@ -1,5 +1,5 @@
 # Monique Femme
- Hello ! Welcomo to my [Github profile ](https://github.com/moniquefemme/).
+ Hello ! Welcome to my [Github profile ](https://github.com/moniquefemme/).
 > 
 **Onde vc me encontra**: 
 <div>
